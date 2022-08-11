@@ -1,11 +1,11 @@
 {
-    "name": "mdtaiyabhesabe/laravel-credentials",
+    "name": "hesabe/laravel-credentials",
     "description": "Store and access encrypted credentials in your Laravel application.",
     "keywords": [
         "Hesabe",
         "laravel-credentials"
     ],
-    "homepage": "https://github.com/mdtaiyabhesabe/laravel-credentials",
+    "homepage": "https://github.com/hesabe-tech-team/laravel-credentials",
     "license": "MIT",
     "authors": [
         {
